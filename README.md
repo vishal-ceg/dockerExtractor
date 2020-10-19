@@ -1,4 +1,4 @@
-# dockerExtractor
+# docker's image extractor
 1. Clone this repo
 2. Update docker credential in config.properties
 3. mvn clean package
