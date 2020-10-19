@@ -1,4 +1,0 @@
-com\docker\dockerextractor\DockerClientConfig.class
-com\docker\dockerextractor\ImageExtractor.class
-com\docker\dockerextractor\App.class
-com\docker\dockerextractor\DockerCmdExecutor.class
